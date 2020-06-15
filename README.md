@@ -1,2 +1,0 @@
-# SachinWebCodingClass
-Created with CodeSandbox
